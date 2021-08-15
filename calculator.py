@@ -13,7 +13,7 @@ print('')
 
 BPC = 1
 
-while BPC <= 1000000000000000000000000:  # yep! thats a septilion.
+while BPC <= 100: 
     num1 = float(input('enter your first number: '))
     operator = input('enter operator: ')
     num2 = float(input('enter your second number: '))
